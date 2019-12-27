@@ -1,11 +1,12 @@
-# uam_apprende
-mern stack web app
+# UAM_APPrende
+MERN stack web app
 
 deployed to heroku
 
 deploy from github repository's deploy branch
 
 INSTALL:
+
 -NODEjs
 
 -Git
@@ -20,7 +21,7 @@ INSTALL:
 
 -client side digit "npm run build"
 
--"npm start" in roomt to run
+"npm start" in root to run
 
 -use localhost:8080
 

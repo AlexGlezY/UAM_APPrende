@@ -1,7 +1,7 @@
 # UAM_APPrende
 MERN stack web app
 
-deployed to heroku
+deployed to heroku http://uamapprende.herokuapp.com/
 
 deploy from github repository's deploy branch
 
